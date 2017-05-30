@@ -10,8 +10,6 @@ Heroku is a hosting platform where you can deploy dynamic applications in Rails,
 
 ## Prerequisites
 
----
-
 &nbsp;
 
 In order to deploy a site you need a couple of things:
@@ -27,8 +25,6 @@ In order to deploy a site you need a couple of things:
 
 
 ## Deploying Your Site
-
----
 
 First, you need to navigate to your project in the command prompt.
 
